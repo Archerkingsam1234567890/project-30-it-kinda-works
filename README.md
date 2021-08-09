@@ -1,1 +1,2 @@
-# project-30-it-kinda-works
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
